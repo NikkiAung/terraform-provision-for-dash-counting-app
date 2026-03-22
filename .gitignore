@@ -1,0 +1,27 @@
+# Terraform local cache and downloaded providers/modules
+.terraform/
+
+# State files — contain live resource IDs and may include sensitive values
+terraform.tfstate
+terraform.tfstate.backup
+
+# Variable files that may contain secrets (API keys, passwords, etc.)
+*.tfvars
+*.tfvars.json
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Override files (local overrides, not meant to be shared)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration file (may contain credentials)
+.terraformrc
+terraform.rc
+
+# macOS metadata
+.DS_Store
