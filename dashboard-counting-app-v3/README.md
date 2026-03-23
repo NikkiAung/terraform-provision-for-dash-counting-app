@@ -12,7 +12,7 @@ The same AWS two-tier architecture as [dashboard-counting-app](../dashboard-coun
 
 ## Working Demo
 
-https://github.com/user-attachments/assets/81cbc011-c7f8-417a-9aa0-1465383f8e5f
+https://github.com/user-attachments/assets/328a004f-e577-48a2-9f5c-aecfeb2f9711
 
 Same architecture as the from-scratch version — different Terraform approach.
 
